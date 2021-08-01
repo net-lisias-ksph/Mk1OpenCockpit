@@ -1,5 +1,8 @@
 # MK-1 Stockalike Open Cockpit (inline external seat) :: Change Log
 
+* 2018-0714: 1.2.0 (NESD) for KSP 1.4.4
+	+ New part - Gunner seat
+	+ AVC set to KSP 144
 * 2018-0320: 1.1.2 (NESD) for KSP 1.4.1
 	+ Service update
 	+ Game version - 1.4.1  (no new modules, will work on 1.3.1)
