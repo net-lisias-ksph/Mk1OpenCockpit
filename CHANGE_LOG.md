@@ -1,5 +1,10 @@
 # MK-1 Stockalike Open Cockpit (inline external seat) :: Change Log
 
+* 2018-1028: 1.2.1 (NESD) for KSP 1.5.1
+	+ Added  --------------
+	+ Support for stock pilot loader, external mod not required
+	+ Simple machinegun animation
+	+ Patch for KIS support that add small containers to parts with seats
 * 2018-0714: 1.2.0 (NESD) for KSP 1.4.4
 	+ New part - Gunner seat
 	+ AVC set to KSP 144
