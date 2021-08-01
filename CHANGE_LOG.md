@@ -1,5 +1,10 @@
 # MK-1 Stockalike Open Cockpit (inline external seat) :: Change Log
 
+* 2018-0320: 1.1.2 (NESD) for KSP 1.4.1
+	+ Service update
+	+ Game version - 1.4.1  (no new modules, will work on 1.3.1)
+	+ Fixed jump glitch on big windscreen
+	+ Added flag patches on main part
 * 2018-0204: 1.1.1 (NESD) for KSP 1.3.1
 	+ Only bugfix, added missing string in config
 * 2017-1223: 1.1 (NESD) for KSP 1.3.1
