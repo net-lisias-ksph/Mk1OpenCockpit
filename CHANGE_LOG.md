@@ -2,12 +2,11 @@
 
 * 2020-1107: 1.3.0 (NESD) for KSP 1.10.1
 	+ New parts:
-	+ 2 tail sections,
-	+ 20 stockalike wing pieces: 3 overhead panels, 3 round wingtips, 2 rudders, 5 wing edges and 7 wing modules
-	+ Biplane style strut (6 variants) wire and wire antenna
-	+ WW1-WW2 national roundels and pilot insignias for KSP 1.10 flag parts
+		- 2 tail sections,
+		- 20 stockalike wing pieces: 3 overhead panels, 3 round wingtips, 2 rudders, 5 wing edges and 7 wing modules
+		- Biplane style strut (6 variants) wire and wire antenna
+		- WW1-WW2 national roundels and pilot insignias for KSP 1.10 flag parts
 * 2018-1028: 1.2.1 (NESD) for KSP 1.5.1
-	+ Added  --------------
 	+ Support for stock pilot loader, external mod not required
 	+ Simple machinegun animation
 	+ Patch for KIS support that add small containers to parts with seats
@@ -27,10 +26,9 @@
 	+ Added AVC checker
 	+ Changed some modules settings
 * 2017-0702: 1.0 (NESD) for KSP 1.3.0
-	+ C A U T I O N   - - -
-	+ Folder structure and file naming changed
-	+ Before update from Beta0.9 complete all flights and recover or destroy all
-			- C A U T I O N   - - -
+	+ C A U T I O N
+		- Folder structure and file naming changed
+		- Before update from Beta0.9 complete all flights and recover or destroy all
 	+ Removed monopropellant resource from main part and added 50 units of LF
 	+ Added 2 new parts:  Drone core and Support module
 	+ Small changes in part configs
