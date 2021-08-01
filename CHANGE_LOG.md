@@ -1,5 +1,10 @@
 # MK-1 Stockalike Open Cockpit (inline external seat) :: Change Log
 
+* 2017-1223: 1.1 (NESD) for KSP 1.3.1
+	+ Service update to KSP 1.3.1  (no new parts)
+	+ Added localization support
+	+ Added AVC checker
+	+ Changed some modules settings
 * 2017-0702: 1.0 (NESD) for KSP 1.3.0
 	+ C A U T I O N   - - -
 	+ Folder structure and file naming changed
