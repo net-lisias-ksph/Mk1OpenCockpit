@@ -1,5 +1,11 @@
 # MK-1 Stockalike Open Cockpit (inline external seat) :: Change Log
 
+* 2020-1107: 1.3.0 (NESD) for KSP 1.10.1
+	+ New parts:
+	+ 2 tail sections,
+	+ 20 stockalike wing pieces: 3 overhead panels, 3 round wingtips, 2 rudders, 5 wing edges and 7 wing modules
+	+ Biplane style strut (6 variants) wire and wire antenna
+	+ WW1-WW2 national roundels and pilot insignias for KSP 1.10 flag parts
 * 2018-1028: 1.2.1 (NESD) for KSP 1.5.1
 	+ Added  --------------
 	+ Support for stock pilot loader, external mod not required
