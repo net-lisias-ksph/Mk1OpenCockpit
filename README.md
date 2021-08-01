@@ -1,11 +1,12 @@
-# MK-1 Stockalike Open Cockpit (inline external seat)
+# MK-1 Stockalike Open Cockpit (inline external seat) :: UNOFFICIAL
 
 If you built rocket from vintage Sci-Fi comics or just a biplane, this things make it better
 
 This is an unofficial, non authorised repository for **MK-1 Stockalike Open Cockpit (inline external seat)** for historical reference and troubleshooting.
 
 
-## Content
+## In A Hurry
+
 * [Binaries](https://github.com/net-lisias-ksph/Mk1OpenCockpit/tree/Archive)
 * Sources
 	+ WiP
